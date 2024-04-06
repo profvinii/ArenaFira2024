@@ -1,7 +1,7 @@
 {
   "worldName": "custom",
   "options": {
-    "imageURL": "https://raw.githubusercontent.com/profvinii/ArenaFira2024/main/arena.png",
+    "imageURL": "https://raw.githubusercontent.com/profvinii/ArenaFira2024/main/arena2.jpg",
     "groundType": "box",
     "length": 100,
     "width": 100,
@@ -24,9 +24,9 @@
       {
         "type": "box",
         "position": [
-          51.526411246047445,
-          66.66096578262594,
-          2.6460029159044045
+          50.58138430474294,
+          66.51191483135162,
+          2.4116834465897132
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -37,9 +37,9 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          5,
-          5,
-          5
+          4.5,
+          4.5,
+          4.5
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -60,9 +60,9 @@
       {
         "type": "box",
         "position": [
-          64.52371544305977,
-          53.17000506127005,
-          2.6593325952203273
+          63.937681220397,
+          53.338785814877276,
+          2.4632762592090636
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -73,9 +73,9 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          5,
-          5,
-          5
+          4.5,
+          4.5,
+          4.5
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -96,9 +96,9 @@
       {
         "type": "box",
         "position": [
-          51.526411246047445,
-          39.45106790811576,
-          2.542489073001917
+          50.52702800555466,
+          40.10278980255024,
+          2.4628836121963573
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -109,9 +109,9 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          5,
-          5,
-          5
+          4.5,
+          4.5,
+          4.5
         ],
         "modelURL": "",
         "modelScale": 10,
@@ -132,9 +132,9 @@
       {
         "type": "box",
         "position": [
-          51.526411246047445,
-          53,
-          2.6235137296924482
+          50.522261970691915,
+          53.04478981948728,
+          2.3691524759358384
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -145,9 +145,9 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          5,
-          5,
-          5
+          4.5,
+          4.5,
+          4.5
         ],
         "modelURL": "",
         "modelScale": 10,
